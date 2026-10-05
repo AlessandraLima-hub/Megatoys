@@ -1,0 +1,1082 @@
+[
+  {
+    "id": 1,
+    "nome": "Homem Aranha 30cm",
+    "cat": "Bonecos",
+    "preco": 32.0,
+    "tag": "NOVIDADE",
+    "img": "fotos/1.jpg.jpg",
+    "aval": 31
+  },
+  {
+    "id": 2,
+    "nome": "Batman 30cm",
+    "cat": "Bonecos",
+    "preco": 34.1,
+    "tag": "MAIS VENDIDO",
+    "img": "fotos/2.jpg.jpg",
+    "aval": 32
+  },
+  {
+    "id": 3,
+    "nome": "Superman",
+    "cat": "Bonecos",
+    "preco": 36.2,
+    "tag": "OFERTA",
+    "img": "fotos/3.jpg.jpg",
+    "aval": 33
+  },
+  {
+    "id": 4,
+    "nome": "Hulk Gigante",
+    "cat": "Bonecos",
+    "preco": 38.3,
+    "tag": "25% OFF",
+    "img": "fotos/4.jpg.jpg",
+    "aval": 34
+  },
+  {
+    "id": 5,
+    "nome": "Iron Man",
+    "cat": "Bonecos",
+    "preco": 40.4,
+    "tag": "NOVIDADE",
+    "img": "fotos/5.jpg.jpg",
+    "aval": 35
+  },
+  {
+    "id": 6,
+    "nome": "Thor",
+    "cat": "Bonecos",
+    "preco": 42.5,
+    "tag": "MAIS VENDIDO",
+    "img": "fotos/6.jpg.jpg",
+    "aval": 36
+  },
+  {
+    "id": 7,
+    "nome": "Barbie Médica",
+    "cat": "Bonecos",
+    "preco": 44.6,
+    "tag": "OFERTA",
+    "img": "fotos/7.jpg.jpg",
+    "aval": 37
+  },
+  {
+    "id": 8,
+    "nome": "Barbie Sereia",
+    "cat": "Bonecos",
+    "preco": 46.7,
+    "tag": "25% OFF",
+    "img": "fotos/8.jpg.jpg",
+    "aval": 38
+  },
+  {
+    "id": 9,
+    "nome": "Ken Praia",
+    "cat": "Bonecos",
+    "preco": 48.8,
+    "tag": "NOVIDADE",
+    "img": "fotos/9.jpg.jpg",
+    "aval": 39
+  },
+  {
+    "id": 10,
+    "nome": "Baby Alive",
+    "cat": "Bonecos",
+    "preco": 50.9,
+    "tag": "MAIS VENDIDO",
+    "img": "fotos/10.jpg.jpg",
+    "aval": 40
+  },
+  {
+    "id": 11,
+    "nome": "Polly Pocket",
+    "cat": "Bonecos",
+    "preco": 53.0,
+    "tag": "OFERTA",
+    "img": "fotos/11.jpg.jpg",
+    "aval": 41
+  },
+  {
+    "id": 12,
+    "nome": "LOL Surprise",
+    "cat": "Bonecos",
+    "preco": 55.1,
+    "tag": "25% OFF",
+    "img": "fotos/12.jpg.jpg",
+    "aval": 42
+  },
+  {
+    "id": 13,
+    "nome": "Monster High",
+    "cat": "Bonecos",
+    "preco": 57.2,
+    "tag": "NOVIDADE",
+    "img": "fotos/13.jpg.jpg",
+    "aval": 43
+  },
+  {
+    "id": 14,
+    "nome": "Patrulha Canina",
+    "cat": "Bonecos",
+    "preco": 59.3,
+    "tag": "MAIS VENDIDO",
+    "img": "fotos/14.jpg.jpg",
+    "aval": 44
+  },
+  {
+    "id": 15,
+    "nome": "Transformers",
+    "cat": "Bonecos",
+    "preco": 61.4,
+    "tag": "OFERTA",
+    "img": "fotos/15.jpg.jpg",
+    "aval": 45
+  },
+  {
+    "id": 16,
+    "nome": "Naruto",
+    "cat": "Bonecos",
+    "preco": 63.5,
+    "tag": "25% OFF",
+    "img": "fotos/16.jpg.jpg",
+    "aval": 46
+  },
+  {
+    "id": 17,
+    "nome": "Goku",
+    "cat": "Bonecos",
+    "preco": 65.6,
+    "tag": "NOVIDADE",
+    "img": "fotos/17.jpg.jpg",
+    "aval": 47
+  },
+  {
+    "id": 18,
+    "nome": "Ladybug",
+    "cat": "Bonecos",
+    "preco": 67.7,
+    "tag": "MAIS VENDIDO",
+    "img": "fotos/18.jpg.jpg",
+    "aval": 48
+  },
+  {
+    "id": 19,
+    "nome": "Power Rangers",
+    "cat": "Bonecos",
+    "preco": 69.8,
+    "tag": "OFERTA",
+    "img": "fotos/19.jpg.jpg",
+    "aval": 49
+  },
+  {
+    "id": 20,
+    "nome": "Stitch",
+    "cat": "Bonecos",
+    "preco": 71.9,
+    "tag": "25% OFF",
+    "img": "fotos/20.jpg.jpg",
+    "aval": 50
+  },
+  {
+    "id": 21,
+    "nome": "Kit Blocos 500 Peças",
+    "cat": "Blocos de Montar",
+    "preco": 74.0,
+    "tag": "NOVIDADE",
+    "img": "fotos/21.jpg.jpg",
+    "aval": 51
+  },
+  {
+    "id": 22,
+    "nome": "LEGO Cidade Polícia",
+    "cat": "Blocos de Montar",
+    "preco": 76.1,
+    "tag": "MAIS VENDIDO",
+    "img": "fotos/22.jpg.jpg",
+    "aval": 52
+  },
+  {
+    "id": 23,
+    "nome": "LEGO Castelo",
+    "cat": "Blocos de Montar",
+    "preco": 78.2,
+    "tag": "OFERTA",
+    "img": "fotos/23.jpg.jpg",
+    "aval": 53
+  },
+  {
+    "id": 24,
+    "nome": "LEGO Nave",
+    "cat": "Blocos de Montar",
+    "preco": 80.3,
+    "tag": "25% OFF",
+    "img": "fotos/24.jpg.jpg",
+    "aval": 54
+  },
+  {
+    "id": 25,
+    "nome": "Blocos 1000 Peças",
+    "cat": "Blocos de Montar",
+    "preco": 82.4,
+    "tag": "NOVIDADE",
+    "img": "fotos/25.jpg.jpg",
+    "aval": 55
+  },
+  {
+    "id": 26,
+    "nome": "Alfabeto 26 Letras",
+    "cat": "Blocos de Montar",
+    "preco": 84.5,
+    "tag": "MAIS VENDIDO",
+    "img": "fotos/26.jpg.jpg",
+    "aval": 56
+  },
+  {
+    "id": 27,
+    "nome": "Animais Fazenda",
+    "cat": "Blocos de Montar",
+    "preco": 86.6,
+    "tag": "OFERTA",
+    "img": "fotos/27.jpg.jpg",
+    "aval": 57
+  },
+  {
+    "id": 28,
+    "nome": "Trem Elétrico",
+    "cat": "Blocos de Montar",
+    "preco": 88.7,
+    "tag": "25% OFF",
+    "img": "fotos/28.jpg.jpg",
+    "aval": 58
+  },
+  {
+    "id": 29,
+    "nome": "Dinossauro T-Rex",
+    "cat": "Blocos de Montar",
+    "preco": 90.8,
+    "tag": "NOVIDADE",
+    "img": "fotos/29.jpg.jpg",
+    "aval": 59
+  },
+  {
+    "id": 30,
+    "nome": "Casa Moderna",
+    "cat": "Blocos de Montar",
+    "preco": 92.9,
+    "tag": "MAIS VENDIDO",
+    "img": "fotos/30.jpg.jpg",
+    "aval": 60
+  },
+  {
+    "id": 31,
+    "nome": "Robô Gigante",
+    "cat": "Blocos de Montar",
+    "preco": 95.0,
+    "tag": "OFERTA",
+    "img": "fotos/31.jpg.jpg",
+    "aval": 61
+  },
+  {
+    "id": 32,
+    "nome": "Avião Caça",
+    "cat": "Blocos de Montar",
+    "preco": 97.1,
+    "tag": "25% OFF",
+    "img": "fotos/32.jpg.jpg",
+    "aval": 62
+  },
+  {
+    "id": 33,
+    "nome": "Fórmula 1",
+    "cat": "Blocos de Montar",
+    "preco": 99.2,
+    "tag": "NOVIDADE",
+    "img": "fotos/33.jpg.jpg",
+    "aval": 63
+  },
+  {
+    "id": 34,
+    "nome": "Forte Militar",
+    "cat": "Blocos de Montar",
+    "preco": 101.3,
+    "tag": "MAIS VENDIDO",
+    "img": "fotos/34.jpg.jpg",
+    "aval": 64
+  },
+  {
+    "id": 35,
+    "nome": "Números",
+    "cat": "Blocos de Montar",
+    "preco": 103.4,
+    "tag": "OFERTA",
+    "img": "fotos/35.jpg.jpg",
+    "aval": 65
+  },
+  {
+    "id": 36,
+    "nome": "Gigante 50cm",
+    "cat": "Blocos de Montar",
+    "preco": 105.5,
+    "tag": "25% OFF",
+    "img": "fotos/36.jpg.jpg",
+    "aval": 66
+  },
+  {
+    "id": 37,
+    "nome": "Aeroporto",
+    "cat": "Blocos de Montar",
+    "preco": 107.6,
+    "tag": "NOVIDADE",
+    "img": "fotos/37.jpg.jpg",
+    "aval": 67
+  },
+  {
+    "id": 38,
+    "nome": "Bebê Encaixe",
+    "cat": "Blocos de Montar",
+    "preco": 109.7,
+    "tag": "MAIS VENDIDO",
+    "img": "fotos/38.jpg.jpg",
+    "aval": 68
+  },
+  {
+    "id": 39,
+    "nome": "Pirâmide",
+    "cat": "Blocos de Montar",
+    "preco": 111.8,
+    "tag": "OFERTA",
+    "img": "fotos/39.jpg.jpg",
+    "aval": 69
+  },
+  {
+    "id": 40,
+    "nome": "Ponte",
+    "cat": "Blocos de Montar",
+    "preco": 113.9,
+    "tag": "25% OFF",
+    "img": "fotos/40.jpg.jpg",
+    "aval": 70
+  },
+  {
+    "id": 41,
+    "nome": "Hot Wheels 5 Pack",
+    "cat": "Carrinhos",
+    "preco": 116.0,
+    "tag": "NOVIDADE",
+    "img": "fotos/41.jpg.jpg",
+    "aval": 71
+  },
+  {
+    "id": 42,
+    "nome": "Pista Loop Infinito",
+    "cat": "Carrinhos",
+    "preco": 118.1,
+    "tag": "MAIS VENDIDO",
+    "img": "fotos/42.jpg.jpg",
+    "aval": 72
+  },
+  {
+    "id": 43,
+    "nome": "Controle Remoto Drift",
+    "cat": "Carrinhos",
+    "preco": 120.2,
+    "tag": "OFERTA",
+    "img": "fotos/43.jpg.jpg",
+    "aval": 73
+  },
+  {
+    "id": 44,
+    "nome": "Bombeiro Escada",
+    "cat": "Carrinhos",
+    "preco": 122.3,
+    "tag": "25% OFF",
+    "img": "fotos/44.jpg.jpg",
+    "aval": 74
+  },
+  {
+    "id": 45,
+    "nome": "Ambulância Som",
+    "cat": "Carrinhos",
+    "preco": 124.4,
+    "tag": "NOVIDADE",
+    "img": "fotos/45.jpg.jpg",
+    "aval": 75
+  },
+  {
+    "id": 46,
+    "nome": "Polícia Luz",
+    "cat": "Carrinhos",
+    "preco": 126.5,
+    "tag": "MAIS VENDIDO",
+    "img": "fotos/46.jpg.jpg",
+    "aval": 76
+  },
+  {
+    "id": 47,
+    "nome": "McQueen Falante",
+    "cat": "Carrinhos",
+    "preco": 128.6,
+    "tag": "OFERTA",
+    "img": "fotos/47.jpg.jpg",
+    "aval": 77
+  },
+  {
+    "id": 48,
+    "nome": "Fórmula 1 Ferrari",
+    "cat": "Carrinhos",
+    "preco": 130.7,
+    "tag": "25% OFF",
+    "img": "fotos/48.jpg.jpg",
+    "aval": 78
+  },
+  {
+    "id": 49,
+    "nome": "Garagem 3 Andares",
+    "cat": "Carrinhos",
+    "preco": 132.8,
+    "tag": "NOVIDADE",
+    "img": "fotos/49.jpg.jpg",
+    "aval": 79
+  },
+  {
+    "id": 50,
+    "nome": "Moto Yamaha",
+    "cat": "Carrinhos",
+    "preco": 134.9,
+    "tag": "MAIS VENDIDO",
+    "img": "fotos/50.jpg.jpg",
+    "aval": 80
+  },
+  {
+    "id": 51,
+    "nome": "Jipe Safari",
+    "cat": "Carrinhos",
+    "preco": 137.0,
+    "tag": "OFERTA",
+    "img": "fotos/51.jpg.jpg",
+    "aval": 81
+  },
+  {
+    "id": 52,
+    "nome": "Ônibus Escolar",
+    "cat": "Carrinhos",
+    "preco": 139.1,
+    "tag": "25% OFF",
+    "img": "fotos/52.jpg.jpg",
+    "aval": 82
+  },
+  {
+    "id": 53,
+    "nome": "Cegonha 4 Carros",
+    "cat": "Carrinhos",
+    "preco": 141.2,
+    "tag": "NOVIDADE",
+    "img": "fotos/53.jpg.jpg",
+    "aval": 83
+  },
+  {
+    "id": 54,
+    "nome": "Trator Arado",
+    "cat": "Carrinhos",
+    "preco": 143.3,
+    "tag": "MAIS VENDIDO",
+    "img": "fotos/54.jpg.jpg",
+    "aval": 84
+  },
+  {
+    "id": 55,
+    "nome": "Fricção Dino",
+    "cat": "Carrinhos",
+    "preco": 145.4,
+    "tag": "OFERTA",
+    "img": "fotos/55.jpg.jpg",
+    "aval": 85
+  },
+  {
+    "id": 56,
+    "nome": "Pista Vulcão",
+    "cat": "Carrinhos",
+    "preco": 147.5,
+    "tag": "25% OFF",
+    "img": "fotos/56.jpg.jpg",
+    "aval": 86
+  },
+  {
+    "id": 57,
+    "nome": "Off Road",
+    "cat": "Carrinhos",
+    "preco": 149.6,
+    "tag": "NOVIDADE",
+    "img": "fotos/57.jpg.jpg",
+    "aval": 87
+  },
+  {
+    "id": 58,
+    "nome": "Lixo Caçamba",
+    "cat": "Carrinhos",
+    "preco": 151.7,
+    "tag": "MAIS VENDIDO",
+    "img": "fotos/58.jpg.jpg",
+    "aval": 88
+  },
+  {
+    "id": 59,
+    "nome": "Helicóptero",
+    "cat": "Carrinhos",
+    "preco": 153.8,
+    "tag": "OFERTA",
+    "img": "fotos/59.jpg.jpg",
+    "aval": 89
+  },
+  {
+    "id": 60,
+    "nome": "Jato Supersônico",
+    "cat": "Carrinhos",
+    "preco": 155.9,
+    "tag": "25% OFF",
+    "img": "fotos/60.jpg.jpg",
+    "aval": 90
+  },
+  {
+    "id": 61,
+    "nome": "Desafio da Selva",
+    "cat": "Jogos de Tabuleiro",
+    "preco": 158.0,
+    "tag": "NOVIDADE",
+    "img": "fotos/61.jpg.jpg",
+    "aval": 91
+  },
+  {
+    "id": 62,
+    "nome": "Banco Imobiliário",
+    "cat": "Jogos de Tabuleiro",
+    "preco": 160.1,
+    "tag": "MAIS VENDIDO",
+    "img": "fotos/62.jpg.jpg",
+    "aval": 92
+  },
+  {
+    "id": 63,
+    "nome": "Detetive",
+    "cat": "Jogos de Tabuleiro",
+    "preco": 162.2,
+    "tag": "OFERTA",
+    "img": "fotos/63.jpg.jpg",
+    "aval": 93
+  },
+  {
+    "id": 64,
+    "nome": "Jogo da Vida",
+    "cat": "Jogos de Tabuleiro",
+    "preco": 164.3,
+    "tag": "25% OFF",
+    "img": "fotos/64.jpg.jpg",
+    "aval": 94
+  },
+  {
+    "id": 65,
+    "nome": "War",
+    "cat": "Jogos de Tabuleiro",
+    "preco": 166.4,
+    "tag": "NOVIDADE",
+    "img": "fotos/65.jpg.jpg",
+    "aval": 95
+  },
+  {
+    "id": 66,
+    "nome": "Uno",
+    "cat": "Jogos de Tabuleiro",
+    "preco": 168.5,
+    "tag": "MAIS VENDIDO",
+    "img": "fotos/66.jpg.jpg",
+    "aval": 96
+  },
+  {
+    "id": 67,
+    "nome": "Xadrez",
+    "cat": "Jogos de Tabuleiro",
+    "preco": 170.6,
+    "tag": "OFERTA",
+    "img": "fotos/67.jpg.jpg",
+    "aval": 97
+  },
+  {
+    "id": 68,
+    "nome": "Damas",
+    "cat": "Jogos de Tabuleiro",
+    "preco": 172.7,
+    "tag": "25% OFF",
+    "img": "fotos/68.jpg.jpg",
+    "aval": 98
+  },
+  {
+    "id": 69,
+    "nome": "Ludo",
+    "cat": "Jogos de Tabuleiro",
+    "preco": 174.8,
+    "tag": "NOVIDADE",
+    "img": "fotos/69.jpg.jpg",
+    "aval": 99
+  },
+  {
+    "id": 70,
+    "nome": "Pula Pirata",
+    "cat": "Jogos de Tabuleiro",
+    "preco": 176.9,
+    "tag": "MAIS VENDIDO",
+    "img": "fotos/70.jpg.jpg",
+    "aval": 100
+  },
+  {
+    "id": 71,
+    "nome": "Cara a Cara",
+    "cat": "Jogos de Tabuleiro",
+    "preco": 179.0,
+    "tag": "OFERTA",
+    "img": "fotos/71.jpg.jpg",
+    "aval": 101
+  },
+  {
+    "id": 72,
+    "nome": "Imagem e Ação",
+    "cat": "Jogos de Tabuleiro",
+    "preco": 181.1,
+    "tag": "25% OFF",
+    "img": "fotos/72.jpg.jpg",
+    "aval": 102
+  },
+  {
+    "id": 73,
+    "nome": "Jenga Torre",
+    "cat": "Jogos de Tabuleiro",
+    "preco": 183.2,
+    "tag": "NOVIDADE",
+    "img": "fotos/73.jpg.jpg",
+    "aval": 103
+  },
+  {
+    "id": 74,
+    "nome": "Twister",
+    "cat": "Jogos de Tabuleiro",
+    "preco": 185.3,
+    "tag": "MAIS VENDIDO",
+    "img": "fotos/74.jpg.jpg",
+    "aval": 104
+  },
+  {
+    "id": 75,
+    "nome": "Dominó",
+    "cat": "Jogos de Tabuleiro",
+    "preco": 187.4,
+    "tag": "OFERTA",
+    "img": "fotos/75.jpg.jpg",
+    "aval": 105
+  },
+  {
+    "id": 76,
+    "nome": "Bingo",
+    "cat": "Jogos de Tabuleiro",
+    "preco": 189.5,
+    "tag": "25% OFF",
+    "img": "fotos/76.jpg.jpg",
+    "aval": 106
+  },
+  {
+    "id": 77,
+    "nome": "Perfil",
+    "cat": "Jogos de Tabuleiro",
+    "preco": 191.6,
+    "tag": "NOVIDADE",
+    "img": "fotos/77.jpg.jpg",
+    "aval": 107
+  },
+  {
+    "id": 78,
+    "nome": "Quebra-Cabeça 500pc",
+    "cat": "Jogos de Tabuleiro",
+    "preco": 193.7,
+    "tag": "MAIS VENDIDO",
+    "img": "fotos/78.jpg.jpg",
+    "aval": 108
+  },
+  {
+    "id": 79,
+    "nome": "Monopoly Junior",
+    "cat": "Jogos de Tabuleiro",
+    "preco": 195.8,
+    "tag": "OFERTA",
+    "img": "fotos/79.jpg.jpg",
+    "aval": 109
+  },
+  {
+    "id": 80,
+    "nome": "Memória Animais",
+    "cat": "Jogos de Tabuleiro",
+    "preco": 197.9,
+    "tag": "25% OFF",
+    "img": "fotos/80.jpg.jpg",
+    "aval": 110
+  },
+  {
+    "id": 81,
+    "nome": "Dinossauro T-Rex 35cm",
+    "cat": "Pelúcias",
+    "preco": 200.0,
+    "tag": "NOVIDADE",
+    "img": "fotos/81.jpg.jpg",
+    "aval": 111
+  },
+  {
+    "id": 82,
+    "nome": "Urso Teddy 60cm",
+    "cat": "Pelúcias",
+    "preco": 202.1,
+    "tag": "MAIS VENDIDO",
+    "img": "fotos/82.jpg.jpg",
+    "aval": 112
+  },
+  {
+    "id": 83,
+    "nome": "Unicórnio Arco-Íris",
+    "cat": "Pelúcias",
+    "preco": 204.2,
+    "tag": "OFERTA",
+    "img": "fotos/83.jpg.jpg",
+    "aval": 113
+  },
+  {
+    "id": 84,
+    "nome": "Stitch 30cm",
+    "cat": "Pelúcias",
+    "preco": 206.3,
+    "tag": "25% OFF",
+    "img": "fotos/84.jpg.jpg",
+    "aval": 114
+  },
+  {
+    "id": 85,
+    "nome": "Pikachu 25cm",
+    "cat": "Pelúcias",
+    "preco": 208.4,
+    "tag": "NOVIDADE",
+    "img": "fotos/85.jpg.jpg",
+    "aval": 115
+  },
+  {
+    "id": 86,
+    "nome": "Vira-Lata",
+    "cat": "Pelúcias",
+    "preco": 210.5,
+    "tag": "MAIS VENDIDO",
+    "img": "fotos/86.jpg.jpg",
+    "aval": 116
+  },
+  {
+    "id": 87,
+    "nome": "Gato Cinza",
+    "cat": "Pelúcias",
+    "preco": 212.6,
+    "tag": "OFERTA",
+    "img": "fotos/87.jpg.jpg",
+    "aval": 117
+  },
+  {
+    "id": 88,
+    "nome": "Leão Rei",
+    "cat": "Pelúcias",
+    "preco": 214.7,
+    "tag": "25% OFF",
+    "img": "fotos/88.jpg.jpg",
+    "aval": 118
+  },
+  {
+    "id": 89,
+    "nome": "Elefante Bebê",
+    "cat": "Pelúcias",
+    "preco": 216.8,
+    "tag": "NOVIDADE",
+    "img": "fotos/89.jpg.jpg",
+    "aval": 119
+  },
+  {
+    "id": 90,
+    "nome": "Coelho Branco",
+    "cat": "Pelúcias",
+    "preco": 218.9,
+    "tag": "MAIS VENDIDO",
+    "img": "fotos/90.jpg.jpg",
+    "aval": 120
+  },
+  {
+    "id": 91,
+    "nome": "Tartaruga",
+    "cat": "Pelúcias",
+    "preco": 221.0,
+    "tag": "OFERTA",
+    "img": "fotos/91.jpg.jpg",
+    "aval": 121
+  },
+  {
+    "id": 92,
+    "nome": "Polvo Reversível",
+    "cat": "Pelúcias",
+    "preco": 223.1,
+    "tag": "25% OFF",
+    "img": "fotos/92.jpg.jpg",
+    "aval": 122
+  },
+  {
+    "id": 93,
+    "nome": "Capivara 40cm",
+    "cat": "Pelúcias",
+    "preco": 225.2,
+    "tag": "NOVIDADE",
+    "img": "fotos/93.jpg.jpg",
+    "aval": 123
+  },
+  {
+    "id": 94,
+    "nome": "Panda Fofo",
+    "cat": "Pelúcias",
+    "preco": 227.3,
+    "tag": "MAIS VENDIDO",
+    "img": "fotos/94.jpg.jpg",
+    "aval": 124
+  },
+  {
+    "id": 95,
+    "nome": "Girafa",
+    "cat": "Pelúcias",
+    "preco": 229.4,
+    "tag": "OFERTA",
+    "img": "fotos/95.jpg.jpg",
+    "aval": 125
+  },
+  {
+    "id": 96,
+    "nome": "Jacaré 50cm",
+    "cat": "Pelúcias",
+    "preco": 231.5,
+    "tag": "25% OFF",
+    "img": "fotos/96.jpg.jpg",
+    "aval": 126
+  },
+  {
+    "id": 97,
+    "nome": "Baleia Azul",
+    "cat": "Pelúcias",
+    "preco": 233.6,
+    "tag": "NOVIDADE",
+    "img": "fotos/97.jpg.jpg",
+    "aval": 127
+  },
+  {
+    "id": 98,
+    "nome": "Pinguim",
+    "cat": "Pelúcias",
+    "preco": 235.7,
+    "tag": "MAIS VENDIDO",
+    "img": "fotos/98.jpg.jpg",
+    "aval": 128
+  },
+  {
+    "id": 99,
+    "nome": "Macaco Banana",
+    "cat": "Pelúcias",
+    "preco": 237.8,
+    "tag": "OFERTA",
+    "img": "fotos/99.jpg.jpg",
+    "aval": 129
+  },
+  {
+    "id": 100,
+    "nome": "Cobra 1 Metro",
+    "cat": "Pelúcias",
+    "preco": 239.9,
+    "tag": "25% OFF",
+    "img": "fotos/100.jpg.jpg",
+    "aval": 130
+  },
+  {
+    "id": 101,
+    "nome": "Alfabeto Madeira",
+    "cat": "Educativos",
+    "preco": 242.0,
+    "tag": "NOVIDADE",
+    "img": "fotos/101.jpg.jpg",
+    "aval": 131
+  },
+  {
+    "id": 102,
+    "nome": "Números 1 a 20",
+    "cat": "Educativos",
+    "preco": 244.1,
+    "tag": "MAIS VENDIDO",
+    "img": "fotos/102.jpg.jpg",
+    "aval": 132
+  },
+  {
+    "id": 103,
+    "nome": "Tapete EVA",
+    "cat": "Educativos",
+    "preco": 246.2,
+    "tag": "OFERTA",
+    "img": "fotos/103.jpg.jpg",
+    "aval": 133
+  },
+  {
+    "id": 104,
+    "nome": "Lousa Mágica",
+    "cat": "Educativos",
+    "preco": 248.3,
+    "tag": "25% OFF",
+    "img": "fotos/104.jpg.jpg",
+    "aval": 134
+  },
+  {
+    "id": 105,
+    "nome": "Massa 12 Cores",
+    "cat": "Educativos",
+    "preco": 250.4,
+    "tag": "NOVIDADE",
+    "img": "fotos/105.jpg.jpg",
+    "aval": 135
+  },
+  {
+    "id": 106,
+    "nome": "Ábaco 100 Contas",
+    "cat": "Educativos",
+    "preco": 252.5,
+    "tag": "MAIS VENDIDO",
+    "img": "fotos/106.jpg.jpg",
+    "aval": 136
+  },
+  {
+    "id": 107,
+    "nome": "Relógio Horas",
+    "cat": "Educativos",
+    "preco": 254.6,
+    "tag": "OFERTA",
+    "img": "fotos/107.jpg.jpg",
+    "aval": 137
+  },
+  {
+    "id": 108,
+    "nome": "Mapa Múndi",
+    "cat": "Educativos",
+    "preco": 256.7,
+    "tag": "25% OFF",
+    "img": "fotos/108.jpg.jpg",
+    "aval": 138
+  },
+  {
+    "id": 109,
+    "nome": "Corpo Humano",
+    "cat": "Educativos",
+    "preco": 258.8,
+    "tag": "NOVIDADE",
+    "img": "fotos/109.jpg.jpg",
+    "aval": 139
+  },
+  {
+    "id": 110,
+    "nome": "Sistema Solar",
+    "cat": "Educativos",
+    "preco": 260.9,
+    "tag": "MAIS VENDIDO",
+    "img": "fotos/110.jpg.jpg",
+    "aval": 140
+  },
+  {
+    "id": 111,
+    "nome": "Microscópio 100x",
+    "cat": "Educativos",
+    "preco": 263.0,
+    "tag": "OFERTA",
+    "img": "fotos/111.jpg.jpg",
+    "aval": 141
+  },
+  {
+    "id": 112,
+    "nome": "Slime Colorido",
+    "cat": "Educativos",
+    "preco": 265.1,
+    "tag": "25% OFF",
+    "img": "fotos/112.jpg.jpg",
+    "aval": 142
+  },
+  {
+    "id": 113,
+    "nome": "Kit Cientista",
+    "cat": "Educativos",
+    "preco": 267.2,
+    "tag": "NOVIDADE",
+    "img": "fotos/113.jpg.jpg",
+    "aval": 143
+  },
+  {
+    "id": 114,
+    "nome": "Cubo Mágico",
+    "cat": "Educativos",
+    "preco": 269.3,
+    "tag": "MAIS VENDIDO",
+    "img": "fotos/114.jpg.jpg",
+    "aval": 144
+  },
+  {
+    "id": 115,
+    "nome": "Quebra-Cabeça 3D",
+    "cat": "Educativos",
+    "preco": 271.4,
+    "tag": "OFERTA",
+    "img": "fotos/115.jpg.jpg",
+    "aval": 145
+  },
+  {
+    "id": 116,
+    "nome": "Formas Geométricas",
+    "cat": "Educativos",
+    "preco": 273.5,
+    "tag": "25% OFF",
+    "img": "fotos/116.jpg.jpg",
+    "aval": 146
+  },
+  {
+    "id": 117,
+    "nome": "Libras Alfabeto",
+    "cat": "Educativos",
+    "preco": 275.6,
+    "tag": "NOVIDADE",
+    "img": "fotos/117.jpg.jpg",
+    "aval": 147
+  },
+  {
+    "id": 118,
+    "nome": "Kit Pintura",
+    "cat": "Educativos",
+    "preco": 277.7,
+    "tag": "MAIS VENDIDO",
+    "img": "fotos/118.jpg.jpg",
+    "aval": 148
+  },
+  {
+    "id": 119,
+    "nome": "Dominó Frutas",
+    "cat": "Educativos",
+    "preco": 279.8,
+    "tag": "OFERTA",
+    "img": "fotos/119.jpg.jpg",
+    "aval": 149
+  },
+  {
+    "id": 120,
+    "nome": "Balança Matemática",
+    "cat": "Educativos",
+    "preco": 281.9,
+    "tag": "25% OFF",
+    "img": "fotos/120.jpg.jpg",
+    "aval": 150
+  }
+]
