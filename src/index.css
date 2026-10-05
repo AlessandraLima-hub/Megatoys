@@ -890,3 +890,92 @@ footer {
     font-size: 65px;
   }
 }
+
+
+/* Consulta de Cep - ViaCEP */
+.cep-box {
+  margin-top: 16px;
+  padding: 16px 0;
+  border-top: 1px solid #2d2d2d;
+  border-bottom: 1px solid #2d2d2d;
+}
+
+.cep-box > b {
+  display: block;
+  margin-bottom: 10px;
+  font-size: 15px;
+}
+
+.cep-form {
+  display: flex;
+  gap: 8px;
+}
+
+.cep-form input {
+  flex: 1;
+  min-width: 0;
+  padding: 10px 12px;
+  border: 1px solid #555;
+  border-radius: 8px;
+  background: #fff;
+  color: #111;
+  font-size: 14px;
+  outline: none;
+}
+
+.cep-form input:focus {
+  border-color: #39ff14;
+}
+
+.cep-form button {
+  padding: 10px 14px;
+  border: none;
+  border-radius: 8px;
+  background: #39ff14;
+  color: #111;
+  font-weight: 800;
+  cursor: pointer;
+}
+
+.cep-form button:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.cep-result {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  margin-top: 12px;
+  padding: 12px;
+  border-radius: 8px;
+  background: #1a1a1a;
+  font-size: 13px;
+  line-height: 1.4;
+}
+
+.cep-result strong {
+  color: #39ff14;
+  margin-bottom: 3px;
+}
+
+.cep-result span {
+  display: block;
+}
+
+.cep-error {
+  margin: 10px 0 0;
+  color: #ff5c5c;
+  font-size: 13px;
+  font-weight: 600;
+}
+
+@media (max-width: 520px) {
+  .cep-form {
+    flex-direction: column;
+  }
+
+  .cep-form button {
+    width: 100%;
+  }
+}

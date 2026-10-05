@@ -1,3 +1,4 @@
+import { useState } from 'react'
 import { useCart } from '../context/CartContext'
 
 function formatarMoeda(valor) {
@@ -22,6 +23,11 @@ export default function Cart() {
     total,
   } = useCart()
 
+  const [cep, setCep] = useState('')
+  const [endereco, setEndereco] = useState(null)
+  const [erroCep, setErroCep] = useState('')
+  const [buscandoCep, setBuscandoCep] = useState(false)
+
   if (!openCart) {
     return null
   }
@@ -30,14 +36,68 @@ export default function Cart() {
     setOpenCart(false)
   }
 
-  function finalizarCompra() {
-    alert(
-      `Compra simulada finalizada! Total: ${formatarMoeda(total)}`
-    )
+  function formatarCep(valor) {
+    const numeros = valor.replace(/\D/g, '').slice(0, 8)
 
-    clear()
-    fecharCarrinho()
+    if (numeros.length > 5) {
+      return `${numeros.slice(0, 5)}-${numeros.slice(5)}`
+    }
+
+    return numeros
   }
+
+  async function buscarCep() {
+    const cepLimpo = cep.replace(/\D/g, '')
+
+    setErroCep('')
+    setEndereco(null)
+
+    if (cepLimpo.length !== 8) {
+      setErroCep('Digite um CEP válido com 8 números.')
+      return
+    }
+
+    try {
+      setBuscandoCep(true)
+
+      const resposta = await fetch(
+        `https://viacep.com.br/ws/${cepLimpo}/json/`
+      )
+
+      if (!resposta.ok) {
+        throw new Error('Erro na consulta')
+      }
+
+      const dados = await resposta.json()
+
+      if (dados.erro) {
+        setErroCep('CEP não encontrado.')
+        return
+      }
+
+      setEndereco(dados)
+    } catch {
+      setErroCep(
+        'Não foi possível consultar o CEP. Tente novamente.'
+      )
+    } finally {
+      setBuscandoCep(false)
+    }
+  }
+
+  function finalizarCompra() {
+  alert(
+    `Compra simulada finalizada! Total: ${formatarMoeda(total)}`
+  )
+
+  clear()
+
+  setCep('')
+  setEndereco(null)
+  setErroCep('')
+
+  fecharCarrinho()
+}
 
   return (
     <div
@@ -110,6 +170,57 @@ export default function Cart() {
                 </div>
               </div>
             ))}
+
+            <div className="cep-box">
+              <b>Calcular entrega</b>
+
+              <div className="cep-form">
+                <input
+                  type="text"
+                  value={cep}
+                  onChange={(evento) =>
+                    setCep(formatarCep(evento.target.value))
+                  }
+                  placeholder="00000-000"
+                  maxLength="9"
+                  aria-label="CEP"
+                />
+
+                <button
+                  type="button"
+                  onClick={buscarCep}
+                  disabled={buscandoCep}
+                >
+                  {buscandoCep ? 'BUSCANDO...' : 'BUSCAR'}
+                </button>
+              </div>
+
+              {erroCep && (
+                <p className="cep-error">
+                  {erroCep}
+                </p>
+              )}
+
+              {endereco && (
+                <div className="cep-result">
+                  <strong>Endereço encontrado:</strong>
+
+                  <span>
+                    {endereco.logradouro || 'Logradouro não informado'}
+                  </span>
+
+                  {endereco.bairro && (
+                    <span>{endereco.bairro}</span>
+                  )}
+
+                  <span>
+                    {endereco.localidade} - {endereco.uf}
+                  </span>
+
+                  <span>CEP: {endereco.cep}</span>
+                </div>
+              )}
+            </div>
 
             <div className="totals">
               <div>
